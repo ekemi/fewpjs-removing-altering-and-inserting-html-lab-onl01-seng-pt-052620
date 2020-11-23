@@ -1,2 +1,2 @@
 // Write your code here!
-document.getElementsByTagName("main").remove()
+let r =document.getElementById("main").remove();
